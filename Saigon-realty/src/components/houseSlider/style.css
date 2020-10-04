@@ -1,0 +1,8 @@
+.project-item-text{
+    text-transform: uppercase !important;
+    font-size: 16px;
+    
+}
+.project-item-text:hover{
+    color: #000;
+}

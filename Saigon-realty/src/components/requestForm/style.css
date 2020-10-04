@@ -1,0 +1,75 @@
+.request-wrap {
+  width: 100%;
+}
+.apartment-price {
+  color: #333;
+  width: fit-content;
+}
+.apartment-price span {
+  font-size: 20px !important;
+}
+.request-form {
+  width: fit-content;
+}
+.request-input {
+  width: 80%;
+  height: 45px;
+  margin: 10px 0 10px 0;
+  padding: 5px;
+  border: 1px solid #c3c3c3;
+}
+
+.request-message {
+  width: 80%;
+  min-height: 60px;
+  margin: 10px 0 10px 0;
+  padding: 5px;
+  border: 1px solid #c3c3c3;
+}
+.request-btn {
+  width: 80%;
+  background-color: #cd2026;
+  color: #fff;
+  font-weight: 700;
+  height: 45px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.request-btn:hover {
+  background-color: #ea898f;
+}
+.request-btn:focus {
+  outline: none;
+}
+.popular-label {
+  color: #fff;
+  background-color: #2378a7;
+  text-transform: uppercase;
+  border-radius: 2px;
+  padding: 3px;
+  margin-right: 10px;
+}
+.view-label {
+  color: #333;
+  display: flex;
+  align-items: center;
+}
+.favorite,
+.share {
+  font-weight: lighter;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.red {
+  color: #e25e66;
+}
+#like {
+  display: none;
+  width: fit-content;
+}
+#unlike {
+  width: fit-content;
+}

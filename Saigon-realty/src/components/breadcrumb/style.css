@@ -1,0 +1,20 @@
+.breadcrumb-content {
+  width: 100%;
+  height: fit-content;
+  padding: 8px 15px;
+}
+.list-breadcrumb {
+  
+  font-size: 16px;
+  color: #aaa !important;
+  list-style: none;
+  display: flex !important;
+  align-items: center !important;
+}
+.breadcrumb-item {
+  margin-left: 3px;
+  
+  font-size: 16px;
+  color: #aaa !important;
+  text-decoration: none !important;
+}
